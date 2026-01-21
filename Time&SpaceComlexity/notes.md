@@ -1,7 +1,6 @@
 
-# Lecture: Time & Space Complexity for Coding Interviews
-
-## What You Will Learn
+Time & Space Complexity
+===============================================
 - What algorithm complexity means in real-world terms  
 - How time and space complexity affect performance  
 - Practical Big-O notations and how to read them  
